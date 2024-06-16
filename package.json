@@ -1,0 +1,15 @@
+{
+  "name": "bb-mtg-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes magic the gathering search results on sale from bestbuy.com",
+  "main": "bbMtgScraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "squadron2"
+  },
+  "author": "Bryce Gardner",
+  "license": "ISC"
+}
