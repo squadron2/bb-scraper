@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "bb-mtg-scraper",
   "version": "1.0.0",
   "description": "Scrapes magic the gathering search results on sale from bestbuy.com",
@@ -11,5 +12,9 @@
     "url": "squadron2"
   },
   "author": "Bryce Gardner",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "progress": "^2.0.3",
+    "puppeteer": "^22.6.1"
+  }
 }
